@@ -14,9 +14,8 @@ I'm a tech enthusiast learning **DSA** and **Python**, building projects, and ex
 - Creative problem-solving challenges
 
 ## 🛠️ Technologies & Tools
-<p>
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-</p>
+<img width="442" height="386" alt="image" src="https://github.com/user-attachments/assets/94d0b30d-38c0-4e38-aa17-233aba0f04ad" />
+<img width="442" height="386" alt="image" src="https://github.com/user-attachments/assets/d7917feb-7fbf-4acd-a20b-7710fc6e179c" />
+<img width="442" height="386" alt="image" src="https://github.com/user-attachments/assets/2741d7e9-aa7c-47cc-9635-ee37943510cf" />
+<img width="442" height="386" alt="image" src="https://github.com/user-attachments/assets/2a762e5b-1a20-4e3f-beba-29160a92cb59" />
+![Uploading image.png…]()
